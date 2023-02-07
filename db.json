@@ -1,0 +1,19 @@
+{
+  "itens": [
+    {
+      "name": "Arduino",
+      "quantidade": "15",
+      "id": 1
+    },
+    {
+      "name": "Monitores",
+      "quantidade": "7",
+      "id": 2
+    },
+    {
+      "name": "Teclado",
+      "quantidade": "12",
+      "id": 3
+    }
+  ]
+}
